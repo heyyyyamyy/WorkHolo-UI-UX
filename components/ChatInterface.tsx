@@ -13,9 +13,7 @@ import {
   Italic,
   Underline,
   Code,
-  List,
-  Link as LinkIcon,
-  MessageSquare
+  Link as LinkIcon
 } from 'lucide-react';
 
 const ChatInterface: React.FC = () => {

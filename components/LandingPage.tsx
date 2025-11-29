@@ -1,6 +1,6 @@
 import React from 'react';
 import { ViewState } from '../types';
-import { ShieldCheck, Users, MessageCircle, Zap, ArrowRight, Aperture, CheckCircle2, MessageSquare, Box, Layers, Play } from 'lucide-react';
+import { ShieldCheck, Users, Zap, ArrowRight, Aperture, CheckCircle2, Box, Layers, Play } from 'lucide-react';
 
 interface LandingPageProps {
   onNavigate: (view: ViewState) => void;
